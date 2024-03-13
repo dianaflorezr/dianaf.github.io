@@ -1,8 +1,7 @@
 # Diana Florez
 
 #### Technical Skills: SQL, Power Pivot, PowerBI, Excel, MS Suite, Asana, CRM systems.
-#### Skills: financial analysis, principles of accounting, project management, risk analysis, customer satisfaction, detail-oriented, strategic planning, problem-solving.
-#### Certifications: Project Manager Professional Certificate (Google).
+#### Skills: financial analysis, accounting principles, project management, risk analysis, customer satisfaction, strategic planning, problem-solving.
 
 ## Education
 Bachelor of Science, Financial Engineering (_2019_)
