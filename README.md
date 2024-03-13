@@ -9,7 +9,7 @@ Bachelor of Science, Financial Engineering (_2019_)
 ## Work Experience
 **Financial Wellness Banker @ KeyBank (Sept 2022 - Present)**
 - Prepared and presented financial reports to the team, highlighting key performance indicators and areas for improvement. Developed strategic plans, schedules, and managed resources effectively.
-- Supported management implementing targeted sales strategies and execution of marketing campaigns.
+- Supported management implementing targeted sales strategies and execution of marketing campaigns, and team members training.
 - Utilized excellent communication skills to interact positively with customers, fostering strong team relationships and enhancing the company's reputation for outstanding service.
 - Proactively identify opportunities to improve customer service processes and procedures.
 
