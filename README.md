@@ -8,7 +8,7 @@ Bachelor of Science, Financial Engineering (_2019_)
 
 ## Work Experience
 **Financial Wellness Banker @ KeyBank (Sept 2022 - Present)**
-- Prepared and presented financial reports to the team, highlighting key performance indicators and areas for improvement. Developed strategic plans, schedules, and managed resources effectively using Asana.
+- Prepared and presented financial reports to the team, highlighting key performance indicators and areas for improvement. Developed strategic plans, schedules, and managed resources effectively.
 - Supported management implementing targeted sales strategies and execution of marketing campaigns.
 - Utilized excellent communication skills to interact positively with customers, fostering strong team relationships and enhancing the company's reputation for outstanding service.
 - Proactively identify opportunities to improve customer service processes and procedures.
@@ -19,8 +19,8 @@ Bachelor of Science, Financial Engineering (_2019_)
 - Collaborated with internal teams to address clients needs and resolve any issues or concerns effectively.
 
 **Financial Analyst @ Rentek Operational Solutions (_Sept 2019 - Oct 2021_)**
-- Analyzed financial statements, credit reports, and outlined industry trends. Present reports to management with the design of interactive dashboards in PowerBI.
-- Established several spreadsheet report processes in Excel, improved the quality of data and the analysis tasks for inventory control.
+- Analyzed financial statements, credit reports, and outlined industry trends. Present management reports with interactive dashboards.
+- Established several spreadsheet report processes, improving the data quality and analysis tasks for inventory control.
 - Handled customer transactions, referred products, balanced cash drawers and processed sales operations.
 - Conducted credit assessments for lease applications and collaborated in the structure of lease agreements.
 - Demonstrated leadership implementing adequate training to team members, improving team performance.
