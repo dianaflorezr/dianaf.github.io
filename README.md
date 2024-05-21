@@ -1,4 +1,4 @@
-# Diana Florez
+# Diana Florez 
 
 #### Technical Skills: SQL, Power Pivot, PowerBI, Excel, MS Suite, Asana, CRM systems.
 #### Skills: problem-solving, strategic planning, project management, financial analysis, accounting principles, customer satisfaction.
